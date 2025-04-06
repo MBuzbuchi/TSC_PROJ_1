@@ -2,7 +2,7 @@
 
 E_Book proj
 
-# _** Bloc Scheme**_
+# _**Bloc Scheme**_
 ![image](https://github.com/user-attachments/assets/2968349c-9f69-43eb-b035-581131a2e7cd)
 
 # _**Description of Hardware Functionality**_
